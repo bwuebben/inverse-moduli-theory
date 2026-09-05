@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this manuscript or its accompanying calculations, please cite the paper below."
+title: "Inverse Moduli Theory: Realizability of Degeneration Data by Compactified Moduli Spaces"
+authors:
+  - family-names: Wuebben
+    given-names: Bernd Johannes
+repository-code: "https://github.com/bwuebben/inverse-moduli-theory"
+url: "https://github.com/bwuebben/inverse-moduli-theory"
+date-released: "2026-09-05"
+preferred-citation:
+  type: unpublished
+  title: "Inverse Moduli Theory: Realizability of Degeneration Data by Compactified Moduli Spaces"
+  authors:
+    - family-names: Wuebben
+      given-names: Bernd Johannes
+  year: 2026
+  url: "https://github.com/bwuebben/inverse-moduli-theory"

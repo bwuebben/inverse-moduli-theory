@@ -1,0 +1,32 @@
+# Generated LaTeX files
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.log
+*.lot
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+/paper/main.pdf
+
+# Local environments and editor state
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+.DS_Store
+.idea/
+.vscode/
+
+# Local data and notebooks
+*.parquet
+*.pkl
+*.h5
+*.ipynb
