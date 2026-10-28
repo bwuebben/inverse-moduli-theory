@@ -6,6 +6,8 @@ Bernd Johannes Wuebben, 2026
 
 [Read the paper (PDF, 106 pages)](paper/inverse-moduli-theory.pdf)
 
+[Abstract and citation](https://bwuebben.github.io/papers/inverse-moduli-theory/) · [Zenodo:23643225](https://zenodo.org/records/23643225)
+
 Donaldson, Seiberg–Witten, Floer, and Gromov–Witten theories extract
 invariants or algebraic structures from compactified moduli spaces. This
 paper studies the inverse problem: which prescribed gluing data and
@@ -88,7 +90,8 @@ outside the displayed families. A successful run prints
 Please cite the paper as:
 
 > Bernd Johannes Wuebben. *Inverse Moduli Theory: Realizability of
-> Degeneration Data by Compactified Moduli Spaces*. 2026.
+> Degeneration Data by Compactified Moduli Spaces*. Preprint, 2026.
+> [doi:10.5281/zenodo.23643225](https://doi.org/10.5281/zenodo.23643225).
 
 The calculations in `src/` and the build script are distributed under the
 MIT License. The manuscript sources, bibliography, and PDF in `paper/` are
